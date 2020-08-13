@@ -27,7 +27,6 @@ Change the values in `allowedUsers` to match the user id's of those who you want
 
 *note that if you want to deploy the app directly to Herkou just edit the config.js file and deploy the app then go to settings and Click on Reveal Config Vars.
 
-https://cdn.discordapp.com/attachments/736153171340034110/743417709592838174/unknown.png **(HERE)**
 
 There replace KEY with **`TOKEN`** and VALUE with **`Your Bot's Token`**
 
