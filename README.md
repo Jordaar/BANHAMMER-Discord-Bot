@@ -3,7 +3,7 @@
 
 This Bot is optimized to run on **Heroku**
 
-# Banhammer
+# BanHammer
 
 > A simple Discord bot to handle cross-server bans.
 
