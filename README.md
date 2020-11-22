@@ -1,5 +1,5 @@
 **BAN HAMMER DISCORD BOT MADE WITH NODE.JS**
-
+# OUTDATED
 
 This Bot is optimized to run on **Heroku**
 
