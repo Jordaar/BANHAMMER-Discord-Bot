@@ -12,18 +12,18 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Rayzr522/banhammer.git"
+        "url": ""
     },
     "keywords": [
         "discord.js",
         "discord"
     ],
-    "author": "Rayzr522 <rayzr522@gmail.com>",
+    "author": "Jordaar",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Rayzr522/banhammer/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/Rayzr522/banhammer#readme",
+    "homepage": "",
     "dependencies": {
         "discord.js": "^11.5.1"
     },
